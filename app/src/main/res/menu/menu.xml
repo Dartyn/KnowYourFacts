@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_previous"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Previous"
+        />
+    <item android:id="@+id/action_random"
+        android:icon="@android:drawable/ic_menu_edit"
+
+        android:title="Random"
+         />
+    <item android:id="@+id/action_next"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="Next"
+        />
+</menu>
